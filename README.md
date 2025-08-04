@@ -1,4 +1,4 @@
-# Focus‑Med
+# Sure‑Med
 
 A unified framework for reducing uncertainty in medical report generation.
 
