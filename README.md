@@ -18,3 +18,4 @@ A unified framework for reducing uncertainty in medical report generation.
    git clone https://github.com/your-username/Focus-Med.git
    cd Focus-Med
 ## 📂 Checkpoints
+[HuggingFace]((https://huggingface.co/maoche/Sure-med/tree/main))  
