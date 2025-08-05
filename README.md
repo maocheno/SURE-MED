@@ -7,7 +7,7 @@ A unified framework for reducing uncertainty in medical report generation.
 | Model Name                    | Description                                                 | Download Link                                                                 |
 |-------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------|
 | **XraySiglip**                  | ViT‑based feature extractor for chest X‑rays                | [HuggingFace](https://huggingface.co/StanfordAIMI/XraySigLIP__vit-l-16-siglip-384__webli)                         |
-| **CLIP‑Prior‑Filter**         | CLIP model fine‑tuned for historical report filtering       | [clip](https://huggingface.co/maoche/clip-prior-filter)                |
+| **CLIP‑Prior‑Filter**         | CLIP model fine‑tuned for historical report filtering       | [clip](https://stanfordmedicine.app.box.com/s/dbebk0jr5651dj8x1cu6b6kqyuuvz3ml)                |
 | **Vicuna**  | text decoder    | [HuggingFace](https://huggingface.co/lmsys/vicuna-7b-v1.5)                    |
 
 
