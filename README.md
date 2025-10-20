@@ -19,4 +19,5 @@ A unified framework for reducing uncertainty in medical report generation.
    cd Focus-Med
 ## 📂 Checkpoints
 [Checkpoint](https://huggingface.co/maoche/Sure-med/tree/main)  
-## 📂 dataset
+## 📄 Full Paper
+[Full Paper Path](https://arxiv.org/abs/2508.01693)
