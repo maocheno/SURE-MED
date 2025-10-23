@@ -18,7 +18,7 @@ Automated medical report generation (MRG) holds great promise for reducing the h
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/your-username/Focus-Med.git
-   cd Focus-Med
+   cd SURE-MED
 ## 📂 Checkpoints
 [Checkpoint](https://huggingface.co/maoche/Sure-med/tree/main)  
 
