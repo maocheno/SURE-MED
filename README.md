@@ -23,4 +23,5 @@ Automated medical report generation (MRG) holds great promise for reducing the h
 [Checkpoint](https://huggingface.co/maoche/Sure-med/tree/main)  
 
 ##  More case study
-<img width="1393" height="981" alt="image" src="https://github.com/user-attachments/assets/b5f99951-fd70-4c48-8bee-5cc386946415" />
+<img width="1681" height="1168" alt="image" src="https://github.com/user-attachments/assets/37cb4462-9e94-456c-a5db-345554e82e9b" />
+
